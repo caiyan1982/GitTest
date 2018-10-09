@@ -9,5 +9,8 @@ namespace GitTest
 
         public void FuncB()
         { }
+		
+		public void FuncC()
+		{ }
     }
 }
