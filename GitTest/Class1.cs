@@ -6,5 +6,8 @@ namespace GitTest
     {
         public void FuncA()
         { }
+
+        public void FuncB()
+        { }
     }
 }
