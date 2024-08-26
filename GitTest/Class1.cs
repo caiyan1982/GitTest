@@ -10,6 +10,8 @@ namespace GitTest
         }
 
         public void FuncB()
-        { }
+        {
+            Console.WriteLine("这是Class1类FuncB方法");
+        }
     }
 }
