@@ -8,6 +8,8 @@ namespace GitTest
     class Class2
     {
         public void FuncA()
-        { }
+        {
+            Console.WriteLine("这是Class2类FuncA方法");
+        }
     }
 }
